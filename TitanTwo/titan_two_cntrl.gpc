@@ -1,0 +1,12 @@
+#pragma METAINFO("test4", 1, 0, "csalinasonline@gmail.com")
+
+uint8 dummy;
+
+main {
+	key_passthru();
+	mouse_passthru();
+	if(gcv_ready()) {
+		// Read the GCV feedback data into variables.
+        dummy = gcv_read(0);
+    }
+}
