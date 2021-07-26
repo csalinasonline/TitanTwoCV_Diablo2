@@ -73,6 +73,20 @@ Undead Stygian Doll, https://static.wikia.nocookie.net/diablo_gamepedia/images/d
 Undead Stygian Doll, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/82/Undead_Flayer_%28Diablo_II%29.gif
 Undead Soul Killer, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/82/Undead_Flayer_%28Diablo_II%29.gif
 ---
+Catapult (Diablo II) 
+Catapult, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f2/Catapult_South_%28Diablo_II%29.gif
+Catapult, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/2d/Catapult_East_%28Diablo_II%29.gif
+---
+Claw Viper (Diablo II)
+Claw Viper, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Claw_Viper_%28Diablo_II%29.gif
+Salamander, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/df/Salamander_%28Diablo_II%29.gif
+Serpent Magus, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7d/Serpent_Magus_%28Diablo_II%29.gif
+Claw Viper, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7d/Serpent_Magus_%28Diablo_II%29.gif
+Pit Viper, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7d/Serpent_Magus_%28Diablo_II%29.gif
+Salamander, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b5/Tomb_Viper_%28Diablo_II%29.gif
+Tomb Viper, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Claw_Viper_%28Diablo_II%29.gif
+Serpent Magus, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Claw_Viper_%28Diablo_II%29.gif
+---
 Death Mauler (Diablo II)
 Death Mauler, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/9d/Death_Mauler_%28Diablo_II%29.gif
 Death Brawler, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/d7/Death_Brawler_%28Diablo_II%29.gif
@@ -150,10 +164,436 @@ Gargoyle Trap (Diablo II)
 Gargoyle Trap, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/9f/Gargoyle_Trap_%28Diablo_II%29.gif
 ---
 Giant Mosquito (Diablo II)
+Sucker, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/14/Sucker_%28Diablo_II%29.gif
+Feeder, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/d3/Feeder_%28Diablo_II%29.gif
 ---
 Giant Spider (Diablo II)
+Arach, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/27/Arach_%28Diablo_II%29.gif
+Poison Spinner, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/42/Poison_Spinner_%28Diablo_II%29.gif
+Flame Spider, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/c3/Flame_Spider_%28Diablo_II%29.gif
+Spider Magi, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/8f/Spider_Magi_%28Diablo_II%29.gif
+Arach, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/27/Arach_%28Diablo_II%29.gif
+Arach, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/27/Arach_%28Diablo_II%29.gif
 ---
 Goatman (Diablo II)
+Moon Clan, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/c3/Moon_Clan_%28Diablo_II%29.gif
+Night Clan, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/e8/Night_Clan_%28Diablo_II%29.gif
+Blood Clan, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/28/Blood_Clan_%28Diablo_II%29.gif
+Death Clan, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/89/Death_Clan_%28Diablo_II%29.gif
+Hell Clan, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f0/Hell_Clan_%28Diablo_II%29.gif
+Hell Clan, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/28/Blood_Clan_%28Diablo_II%29.gif
+Blood Clan, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f0/Hell_Clan_%28Diablo_II%29.gif
+Death Clan, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/89/Death_Clan_%28Diablo_II%29.gif
 ---
 Greater Mummy (Diablo II)
+Hollow One, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b8/Hollow_One_%28Diablo_II%29.gif
+Guardian, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/26/Guardian_%28Diablo_II%29.gif
+Unraveler, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/02/Unraveler_%28Diablo_II%29.gif
+Horadrim Ancient, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/77/Horadrim_Ancient_%28Diablo_II%29.gif
+Unraveler*, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b8/Hollow_One_%28Diablo_II%29.gif
+Guardian, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b8/Hollow_One_%28Diablo_II%29.gif
+Unraveler, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/02/Unraveler_%28Diablo_II%29.gif
+Horadrim Ancient, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b8/Hollow_One_%28Diablo_II%29.gif
+Horadrim Ancient, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/02/Unraveler_%28Diablo_II%29.gif
+---
+Hell Bovine (Diablo II)
+Hell Bovine, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/ad/Hell_Bovine_%28Diablo_II%29.gif
+---
+Leaper (Diablo II)
+Sand Leaper, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b0/Sand_Leaper_%28Diablo_II%29.gif
+Cave Leaper, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/de/Cave_Leaper_%28Diablo_II%29.gif
+Tomb Creeper, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/12/Tomb_Creeper_%28Diablo_II%29.gif
+Tree Lurker, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f2/Tree_Lurker_%28Diablo_II%29.gif
+Cliff Lurker, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/18/Cliff_Lurker_%28Diablo_II%29.gif
+Cave Leaper, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/de/Cave_Leaper_%28Diablo_II%29.gif
+Tomb Creeper, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f2/Tree_Lurker_%28Diablo_II%29.gif
+---
+Lightning Spire (Diablo II)
+Lightning Spire, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/34/Lightning_Spire_%28Diablo_II%29.gif
+---
+Megademon (Diablo II)
+Balrog, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/98/Balrog_%28Diablo_II%29.gif
+Pit Lord, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/3d/Pit_Lord_%28Diablo_II%29.gif
+Venom Lord, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/c3/Venom_Lord_%28Diablo_II%29.gif
+Balrog, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/98/Balrog_%28Diablo_II%29.gif
+Pit Lord, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/98/Balrog_%28Diablo_II%29.gif
+Venom Lord, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/98/Balrog_%28Diablo_II%29.gif
+Pit Lord, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/98/Balrog_%28Diablo_II%29.gif
+---
+Minion of Destruction (Diablo II)
+Minion of Destruction, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/11/Minion_of_Destruction_%28Diablo_II%29.gif
+Minion of Destruction, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/11/Minion_of_Destruction_%28Diablo_II%29.gif
+Minion of Destruction, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/11/Minion_of_Destruction_%28Diablo_II%29.gif
+---
+Mummy (Diablo II)
+Dried Corpse, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7e/Dried_Corpse_%28Diablo_II%29.gif
+Decayed, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7a/Decayed_%28Diablo_II%29.gif
+Embalmed, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/97/Embalmed_%28Diablo_II%29.gif
+Preserved Dead, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fd/Preserved_Dead_%28Diablo_II%29.gif
+Cadaver, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/db/Cadaver_%28Diablo_II%29.gif
+Cadaver, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fd/Preserved_Dead_%28Diablo_II%29.gif
+---
+Mummy Sarcophagus (Diablo II)
+Mummy Sarcophagus, https://static.wikia.nocookie.net/diablo_gamepedia/images/6/66/Mummy_Sarcophagus_%28Diablo_II%29.gif
+---
+Oblivion Knight (Diablo II)
+Doom Knight, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/46/Doom_Knight_%28Diablo_II%29.gif
+Abyss Knight, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/8a/Abyss_Knight_%28Diablo_II%29.gif
+Oblivion Knight, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/74/Oblivion_Knight_%28Diablo_II%29.gif
+Doom Knight, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/46/Doom_Knight_%28Diablo_II%29.gif
+Doom Knight, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/46/Doom_Knight_%28Diablo_II%29.gif
+Oblivion Knight, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/74/Oblivion_Knight_%28Diablo_II%29.gif
+Oblivion Knight, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/74/Oblivion_Knight_%28Diablo_II%29.gif
+Oblivion Knight, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/74/Oblivion_Knight_%28Diablo_II%29.gif
+---
+Overseer (Diablo II)
+Overseer, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/a9/Overseer_%28Diablo_II%29.gif
+Overlord, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f8/Overlord_%28Diablo_II%29.gif
+Blood Boss, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/03/Blood_Boss_%28Diablo_II%29.gif
+Hell Whip, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/e2/Hell_Whip_%28Diablo_II%29.gif
+Hell Whip, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/e2/Hell_Whip_%28Diablo_II%29.gif
+---
+Pain Worm (Diablo II)
+Pain Worm, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/28/Pain_Worm_%28Diablo_II%29.gif
+Torment Worm, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/83/Torment_Worm_%28Diablo_II%29.gif
+Agony Worm, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/78/Agony_Worm_%28Diablo_II%29.gif
+Menace Worm, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/5a/Menace_Worm_%28Diablo_II%29.gif
+---
+Putrid Defiler (Diablo II)
+Putrid Defiler, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/04/Putrid_Defiler_%28Diablo_II%29.gif
+Wretched Defiler, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b4/Wretched_Defiler_%28Diablo_II%29.gif
+Fetid Defiler, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/1c/Fetid_Defiler_%28Diablo_II%29.gif
+Rancid Defiler, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/0a/Rancid_Defiler_%28Diablo_II%29.gif
+---
+Reanimated Horde (Diablo II)
+Rot Walker, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/14/Reanimated_Horde_%28Diablo_II%29.gif
+Reanimated Horde, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/14/Reanimated_Horde_%28Diablo_II%29.gif
+Prowling Dead, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/14/Reanimated_Horde_%28Diablo_II%29.gif
+Unholy Corpse, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/14/Reanimated_Horde_%28Diablo_II%29.gif
+Defiled Warrior, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/14/Reanimated_Horde_%28Diablo_II%29.gif
+Unholy Corpse, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/14/Reanimated_Horde_%28Diablo_II%29.gif
+---
+Regurgitator (Diablo II)
+Corpulent, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/a5/Corpulent_%28Diablo_II%29.gif
+Corpse Spitter, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/72/Corpse_Spitter_%28Diablo_II%29.gif
+Maw Fiend, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/77/Maw_Fiend_%28Diablo_II%29.gif
+Maw Fiend, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/77/Maw_Fiend_%28Diablo_II%29.gif
+---
+Sabre Cat (Diablo II)
+Huntress, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/ba/Huntress_%28Diablo_II%29.gif
+Sabre Cat, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fa/Sabre_Cat_%28Diablo_II%29.gif
+Night Tiger, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/5f/Night_Tiger_%28Diablo_II%29.gif
+Hell Cat, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/c7/Hell_Cat_%28Diablo_II%29.gif
+Sabre Cat, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fa/Sabre_Cat_%28Diablo_II%29.gif
+---
+Sand Maggot (Diablo II)
+Sand Maggot, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/31/Sand_Maggot_%28Diablo_II%29.gif
+Rock Worm, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/58/Rock_Worm_%28Diablo_II%29.gif
+Devourer, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/42/Devourer_%28Diablo_II%29.gif
+Giant Lamprey, https://static.wikia.nocookie.net/diablo_gamepedia/images/6/65/Giant_Lamprey_%28Diablo_II%29.gif
+Blood Maggot, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/91/Blood_Maggot_%28Diablo_II%29.gif
+Blood Maggot, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/91/Blood_Maggot_%28Diablo_II%29.gif
+Blood Maggot, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/91/Blood_Maggot_%28Diablo_II%29.gif
+---
+Sand Maggot Egg (Diablo II)
+Sand Maggot Egg, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/79/Sand_Maggot_Egg_%28Diablo_II%29.gif
+Rock Worm Egg, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/13/Rock_Worm_Egg_%28Diablo_II%29.gif
+Devourer Egg, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/d1/Devourer_Egg_%28Diablo_II%29.gif
+Giant Lamprey Egg, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/c6/Giant_Lamprey_Egg_%28Diablo_II%29.gif
+Blood Maggot Egg, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/d1/Blood_Maggot_Egg_%28Diablo_II%29.gif
+Blood Maggot Egg, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/d1/Blood_Maggot_Egg_%28Diablo_II%29.gif
+---
+Sand Maggot Young (Diablo II)
+Sand Maggot Young, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/ff/Sand_Maggot_Young_%28Diablo_II%29.gif
+Rock Worm Young, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b7/Rock_Worm_Young_%28Diablo_II%29.gif
+Devourer Young, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/46/Devourer_Young_%28Diablo_II%29.gif
+Giant Lamprey Young, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/54/Giant_Lamprey_Young_%28Diablo_II%29.gif
+Blood Maggot Young, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/4c/Blood_Maggot_Young_%28Diablo_II%29.gif
+Blood Maggot Young, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/4c/Blood_Maggot_Young_%28Diablo_II%29.gif
+---
+Sand Raider (Diablo II)
+Sand Raider, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/44/Sand_Raider_%28Diablo_II%29.gif
+Marauder, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fd/Marauder_%28Diablo_II%29.gif
+Invader, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/03/Invader_%28Diablo_II%29.gif
+Infidel, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/9f/Infidel_%28Diablo_II%29.gif
+Infidel, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fd/Marauder_%28Diablo_II%29.gif
+Invader, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/9f/Infidel_%28Diablo_II%29.gif
+Assailant, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/03/Invader_%28Diablo_II%29.gif
+---
+Scarab Demon (Diablo II)
+Dung Soldier, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f8/Dung_Soldier_%28Diablo_II%29.gif
+Death Beetle, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/21/Death_Beetle_%28Diablo_II%29.gif
+Scarab, https://static.wikia.nocookie.net/diablo_gamepedia/images/6/62/Scarab_%28Diablo_II%29.gif
+Steel Scarab, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/91/Steel_Scarab_%28Diablo_II%29.gif
+Bone Scarab, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/2f/Bone_Scarab_%28Diablo_II%29.gif
+Scarab, https://static.wikia.nocookie.net/diablo_gamepedia/images/6/62/Scarab_%28Diablo_II%29.gif
+Steel Scarab, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f8/Dung_Soldier_%28Diablo_II%29.gif
+Steel Scarab, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f8/Dung_Soldier_%28Diablo_II%29.gif
+---
+Siege Beast (Diablo II)
+Siege Beast, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/91/Siege_Beast_%28Diablo_II%29.gif
+Crush Beast, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/91/Siege_Beast_%28Diablo_II%29.gif
+Blood Bringer, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/91/Siege_Beast_%28Diablo_II%29.gif
+---
+Skeleton (Diablo II)
+Skeleton, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/2d/Skeleton_%28Diablo_II%29.gif
+Returned, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/8c/Returned_%28Diablo_II%29.gif
+Bone Warrior, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/11/Bone_Warrior_%28Diablo_II%29.gif
+Burning Dead, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/85/Burning_Dead_%28Diablo_II%29.gif
+Horror, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/e3/Horror_%28Diablo_II%29.gif
+Bone Warrior, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/11/Bone_Warrior_%28Diablo_II%29.gif
+Returned, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/8c/Returned_%28Diablo_II%29.gif
+---
+Skeleton Archer (Diablo II)
+Skeleton Archer, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/ea/Skeleton_Archer_%28Diablo_II%29.gif
+Returned Archer, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/1f/Returned_Archer_%28Diablo_II%29.gif
+Bone Archer, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/ef/Bone_Archer_%28Diablo_II%29.gif
+Burning Dead Archer, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/ce/Burning_Dead_Archer_%28Diablo_II%29.gif
+Horror Archer, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/c7/Horror_Archer_%28Diablo_II%29.gif
+Burning Dead Archer, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/ce/Burning_Dead_Archer_%28Diablo_II%29.gif
+Bone Archer, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/ef/Bone_Archer_%28Diablo_II%29.gif
+Returned Archer, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/1f/Returned_Archer_%28Diablo_II%29.gif
+Horror Archer, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/c7/Horror_Archer_%28Diablo_II%29.gif
+---
+Skeleton Mage (Diablo II)
+Returned Mage, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/c3/Returned_Fire_Mage_%28Diablo_II%29.gif
+Returned Mage, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/ef/Returned_Lightning_Mage_%28Diablo_II%29.gif
+Bone Mage, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/84/Bone_Fire_Mage_%28Diablo_II%29.gif
+Bone Mage, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/82/Bone_Lightning_Mage_%28Diablo_II%29.gif
+Burning Dead Mage, https://static.wikia.nocookie.net/diablo_gamepedia/images/6/69/Burning_Dead_Fire_Mage_%28Diablo_II%29.gif
+Burning Dead Mage, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/0e/Burning_Dead_Lightning_Mage_%28Diablo_II%29.gif
+Burning Dead Mage, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/9f/Burning_Dead_Poison_Mage_%28Diablo_II%29.gif
+Horror Mage, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/92/Horror_Cold_Mage_%28Diablo_II%29.gif
+Horror Mage, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/cd/Horror_Fire_Mage_%28Diablo_II%29.gif
+Horror Mage, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/0e/Horror_Poison_Mage_%28Diablo_II%29.gif
+Horror Mage, https://static.wikia.nocookie.net/diablo_gamepedia/images/6/61/Horror_Lightning_Mage_%28Diablo_II%29.gif
+Returned Mage, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/c3/Returned_Fire_Mage_%28Diablo_II%29.gif
+Returned Mage, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/ef/Returned_Lightning_Mage_%28Diablo_II%29.gif
+Bone Mage, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7e/Bone_Cold_Mage_%28Diablo_II%29.gif
+Burning Dead Mage, https://static.wikia.nocookie.net/diablo_gamepedia/images/6/69/Burning_Dead_Fire_Mage_%28Diablo_II%29.gif
+Horror Mage, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/0e/Horror_Poison_Mage_%28Diablo_II%29.gif
+Horror Mage, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/d8/Skeleton_Poison_Mage_%28Diablo_II%29.gif
+Horror Mage, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/0e/Burning_Dead_Lightning_Mage_%28Diablo_II%29.gif
+---
+Slinger (Diablo II)
+Slinger, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/ed/Slinger_%28Diablo_II%29.gif
+Spear Cat, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/cd/Spear_Cat_%28Diablo_II%29.gif
+Hell Slinger, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/35/Hell_Slinger_%28Diablo_II%29.gif
+Spear Cat, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/ed/Slinger_%28Diablo_II%29.gif
+Night Slinger, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/cd/Spear_Cat_%28Diablo_II%29.gif
+Slinger, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/ed/Slinger_%28Diablo_II%29.gif
+Slinger, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/cd/Spear_Cat_%28Diablo_II%29.gif
+Slinger, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/cd/Spear_Cat_%28Diablo_II%29.gif
+---
+Spike Fiend (Diablo II)
+Quill Rat, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/5d/Quill_Rat_%28Diablo_II%29.gif
+Spike Fiend, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/03/Spike_Fiend_%28Diablo_II%29.gif
+Thorn Beast, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/8d/Thorn_Beast_%28Diablo_II%29.gif
+Razor Spine, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/50/Razor_Spine_%28Diablo_II%29.gif
+Quill Rat, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/5d/Quill_Rat_%28Diablo_II%29.gif
+Spike Fiend, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/03/Spike_Fiend_%28Diablo_II%29.gif
+Razor Spine, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/9d/Jungle_Urchin_%28Diablo_II%29.gif
+---
+Stygian Fury (Diablo II)
+Vile Witch, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/21/Vile_Witch_%28Diablo_II%29.gif
+Stygian Fury, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/43/Stygian_Fury_%28Diablo_II%29.gif
+Hell Witch, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/3e/Hell_Witch_%28Diablo_II%29.gif
+Siren, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f8/Blood_Witch_%28Diablo_II%29.gif
+Hell Witch, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/3e/Hell_Witch_%28Diablo_II%29.gif
+Vile Witch, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/21/Vile_Witch_%28Diablo_II%29.gif
+Vile Witch, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/21/Vile_Witch_%28Diablo_II%29.gif
+---
+Succubus (Diablo II)
+Succubus, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/a8/Succubus_%28Diablo_II%29.gif
+Vile Temptress, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b9/Vile_Temptress_%28Diablo_II%29.gif
+Stygian Harlot, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/3e/Stygian_Harlot_%28Diablo_II%29.gif
+Hell Temptress, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/c1/Hell_Temptress_%28Diablo_II%29.gif
+Blood Temptress, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/48/Blood_Temptress_%28Diablo_II%29.gif
+Succubus, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/a8/Succubus_%28Diablo_II%29.gif
+Hell Temptress, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/3e/Stygian_Harlot_%28Diablo_II%29.gif
+Hell Temptress, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/3e/Stygian_Harlot_%28Diablo_II%29.gif
+---
+Suicide Minion (Diablo II)
+Fanatic Enslaved, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/85/Fanatic_Enslaved_%28Diablo_II%29.gif
+Berserker Slayer, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/85/Fanatic_Enslaved_%28Diablo_II%29.gif
+Consumed Ice Boar, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/c9/Consumed_Ice_Boar_%28Diablo_II%29.gif
+Consumed Fire Boar, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/39/Consumed_Fire_Boar_%28Diablo_II%29.gif
+Frenzied Hell Spawn*, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/85/Fanatic_Enslaved_%28Diablo_II%29.gif
+Frenzied Ice Spawn, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/a1/Frenzied_Ice_Spawn_%28Diablo_II%29.gif
+***
+Super Unique Monsters (Diablo II)
+Zombie, Corpsefire, ..., Act1, https://static.wikia.nocookie.net/diablo_gamepedia/images/6/6a/Corpsefire_%28Diablo_II%29.gif
+Fallen Shaman, Bishibosh, ..., Act1, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/36/Bishibosh_%28Diablo_II%29.gif
+Corrupt Rogue Archer, Blood Raven, ..., Act1, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/bf/Blood_Raven_%28Diablo_II%29.gif
+Skeleton, Bonebreaker, ..., Act1, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/35/Bonebreaker_%28Diablo_II%29.gif
+Dark Ranger, Coldcrow, ..., Act1, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fb/Coldcrow_%28Diablo_II%29.gif
+Carver, Rakanishu, ..., Act1, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/78/Rakanishu_%28Diablo_II%29.gif
+Brute, Treehead Woodfist, ..., Act1, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/d8/Crusher_%28Diablo_II%29.gif
+Griswold, Griswold, ..., Act1, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/3c/Griswold_%28Diablo_II%29.gif
+Dark Stalker, The Countess, ..., Act1, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/73/The_Countess_%28Diablo_II%29.gif
+Tainted, Pitspawn Fouldog, ..., Act1, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/24/Pitspawn_Fouldog_%28Diablo_II%29.gif
+Razor Spine, Flamespike the Crawler, ..., Act1, https://static.wikia.nocookie.net/diablo_gamepedia/images/6/69/Flamespike_the_Crawler_%28Diablo_II%29.gif
+Burning Dead Mage, Bone Ash, ..., Act1, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b3/Bone_Ash_%28Diablo_II%29.gif
+The Smith, The Smith, ..., Act1, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/5b/The_Smith_%28Diablo_II%29.gif
+Andariel, Andariel, Normal, Act1, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/34/Andariel_%28Diablo_II%29.gif
+Andariel, Andariel, Nightmare, Act1, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/57/Andariel_Nightmare_%28Diablo_II%29.gif
+Andariel, Andariel, Hell, Act1, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/26/Andariel_Hell_%28Diablo_II%29.gif
+Greater Mummy, Radament, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fe/Radament_%28Diablo_II%29.gif
+Huntress, Bloodwitch the Wild, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/35/Bloodwitch_the_Wild_%28Diablo_II%29.gif
+Salamander, Fangskin, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/9d/Fangskin_%28Diablo_II%29.gif
+Scarab Demon, Beetleburst, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/c6/Beetleburst_%28Diablo_II%29.gif
+Sand Maggot Queen, Coldworm the Burrower, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/eb/Coldworm_the_Burrower_%28Diablo_II%29.gif
+Invader, Fire Eye, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7c/Fire_Eye_%28Diablo_II%29.gif
+Plague Bearer, Dark Elder, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/d3/Dark_Elder_%28Diablo_II%29.gif
+The Summoner, The Summoner, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/47/The_Summoner_%28Diablo_II%29.gif
+Greater Mummy, Ancient Kaa the Soulless, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/ff/Ancient_Kaa_the_Soulless_%28Diablo_II%29.gif
+Decayed, Creeping Feature, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f6/Creeping_Feature_%28Diablo_II%29.gif
+Duriel, Duriel, Normal, Act2, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/ee/Duriel_%28Diablo_II%29.gif
+Duriel, Duriel, Nightmare, Act2, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7d/Duriel_Nightmare_%28Diablo_II%29.gif
+Duriel, Duriel, Hell, Act2, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7b/Duriel_Hell_%28Diablo_II%29.gif
+Soul Killer Shaman, Witch Doctor Endugu, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/04/Witch_Doctor_Endugu_%28Diablo_II%29.gif
+Thrasher, Stormtree, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fc/Thorned_Hulk_%28Diablo_II%29.gif
+Flesh Hunter, Battlemaid Sarina, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/d1/Battlemaid_Sarina_%28Diablo_II%29.gif
+Gloombat, Icehawk Riftwing, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/a1/Icehawk_Riftwing_%28Diablo_II%29.gif
+Flame Spider, Sszark the Burning, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/54/Sszark_the_Burning_%28Diablo_II%29.gif
+Council Member, Ismail Vilehand, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Council_Member_%28Diablo_II%29.gif
+Council Member, Geleb Flamefinger, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Council_Member_%28Diablo_II%29.gif
+Council Member, Toorc Icefist, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Council_Member_%28Diablo_II%29.gif
+Council Member, Wyand Voidbringer, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Council_Member_%28Diablo_II%29.gif
+Council Member, Maffer Dragonhand, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Council_Member_%28Diablo_II%29.gif
+Council Member, Bremm Sparkfist, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Council_Member_%28Diablo_II%29.gif
+Mephisto, Mephisto, ...
+Izual, Izual, ...
+Hephasto the Armorer, Hephasto the Armorer, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fc/Hephasto_the_Armorer_%28Diablo_II%29.gif
+Venom Lord, Infector of Souls, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/cb/Infector_of_Souls_%28Diablo_II%29.gif
+Storm Caster, Grand Vizier of Chaos, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/5a/Grand_Vizier_of_Chaos_%28Diablo_II%29.gif
+Oblivion Knight, Lord De Seis, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7a/Lord_de_Seis_%28Diablo_II%29.gif
+Diablo, Diablo, ...
+Frozen Creeper, Snapchip Shatter, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/08/Frozen_Horror_%28Diablo_II%29.gif
+Nihlathak, Nihlathak, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/4b/Nihlathak_%28Diablo_II%29.gif
+Demon Gremlin, Dac Farren, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/33/Demon_Imp_%28Diablo_II%29.gif
+Overseer, Shenk the Overseer, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/07/Shenk_the_Overseer_%28Diablo_II%29.gif
+Enslaved, Eldritch the Rectifier, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/d1/Eldritch_the_Rectifier_%28Diablo_II%29.gif
+Blood Bringer, Thresh Socket, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/91/Siege_Beast_%28Diablo_II%29.gif
+Death Mauler, Eyeback the Unleashed, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/34/Eyeback_the_Unleashed_%28Diablo_II%29.gif
+Overlord, Sharptooth Slayer, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/21/Sharptooth_Slayer_%28Diablo_II%29.gif
+Frozen Abyss, Frozenstein, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/88/Abominable_%28Diablo_II%29.gif
+Reanimated Horde, Bonesaw Breaker, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/14/Reanimated_Horde_%28Diablo_II%29.gif
+Frozen Creeper, Snapchip Shatter, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/08/Frozen_Horror_%28Diablo_II%29.gif
+Defiled Warrior, Pindleskin, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/14/Reanimated_Horde_%28Diablo_II%29.gif
+Madawc, Madawc, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/80/Madawc_%28Diablo_II%29.gif
+Korlic, Korlic, ...
+Talic, Talic, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b1/Talic_%28Diablo_II%29.gif
+Warped Shaman, Colenzo the Annihilator, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fb/Colenzo_the_Annihilator_%28Diablo_II%29.gif
+Greater Mummy, Achmel the Cursed, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/12/Achmel_the_Cursed_%28Diablo_II%29.gif
+Council Member, Bartuc the Bloody, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Council_Member_%28Diablo_II%29.gif
+Venom Lord, Ventar the Unholy, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/59/Ventar_the_Unholy_%28Diablo_II%29.gif
+Minion of Destruction, Lister the Tormentor, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/11/Minion_of_Destruction_%28Diablo_II%29.gif
+Baal, Baal, ...
+Hell Bovine, The Cow King, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/ad/Hell_Bovine_%28Diablo_II%29.gif
+---
+Swarm (Diablo II)
+Itchies, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/1a/Itchies_%28Diablo_II%29.gif
+Black Locusts, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/ec/Black_Locusts_%28Diablo_II%29.gif
+Hell Swarm, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/8a/Hell_Swarm_%28Diablo_II%29.gif
+Hell Swarm, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/8a/Hell_Swarm_%28Diablo_II%29.gif
+---
+Tainted (Diablo II)
+Misshapen, https://static.wikia.nocookie.net/diablo_gamepedia/images/6/64/Misshapen_%28Diablo_II%29.gif
+Disfigured, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/df/Disfigured_%28Diablo_II%29.gif
+Tainted, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/9d/Tainted_%28Diablo_II%29.gif
+Afflicted, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/a1/Afflicted_%28Diablo_II%29.gif
+Damned, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f6/Damned_%28Diablo_II%29.gif
+Misshapen, https://static.wikia.nocookie.net/diablo_gamepedia/images/6/64/Misshapen_%28Diablo_II%29.gif
+---
+Tentacle Beast (Diablo II)
+Water Watcher, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f9/Water_Watcher_%28Diablo_II%29.gif
+River Stalker, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/86/River_Stalker_%28Diablo_II%29.gif
+Stygian Watcher, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/bc/Stygian_Watcher_%28Diablo_II%29.gif
+---
+Thorned Hulk (Diablo II)
+Thorned Hulk, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fc/Thorned_Hulk_%28Diablo_II%29.gif
+Bramble Hulk, https://static.wikia.nocookie.net/diablo_gamepedia/images/6/62/Bramble_Hulk_%28Diablo_II%29.gif
+Thrasher, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f6/Thrasher_%28Diablo_II%29.gif
+Spikefist, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/1f/Spikefist_%28Diablo_II%29.gif
+Thorned Hulk, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fc/Thorned_Hulk_%28Diablo_II%29.gif
+***
+Unique Monsters (Diablo II)
+TODO
+---
+Vampire (Diablo II)
+The Banished, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7c/The_Banished_%28Diablo_II%29.gif
+Ghoul Lord, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/e9/Ghoul_Lord_%28Diablo_II%29.gif
+Night Lord, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/ba/Night_Lord_2_%28Diablo_II%29.gif
+Dark Lord, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/15/Dark_Lord_%28Diablo_II%29.gif
+Blood Lord, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/1e/Blood_Lord_2_%28Diablo_II%29.gif
+Blood Lord, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/1e/Blood_Lord_2_%28Diablo_II%29.gif
+Ghoul Lord, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/e9/Ghoul_Lord_%28Diablo_II%29.gif
+Dark Lord, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/1e/Blood_Lord_2_%28Diablo_II%29.gif
+---
+Vile Child (Diablo II)
+Flesh Beast, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/38/Flesh_Beast_%28Diablo_II%29.gif
+Stygian Dog, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/30/Stygian_Dog_%28Diablo_II%29.gif
+Grotesque Wyrm, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7a/Grotesque_Wyrm_%28Diablo_II%29.gif
+Grotesque Wyrm, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7a/Grotesque_Wyrm_%28Diablo_II%29.gif
+Flesh Beast, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/38/Flesh_Beast_%28Diablo_II%29.gif
+---
+Vile Mother (Diablo II)
+Flesh Spawner, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/27/Flesh_Spawner_%28Diablo_II%29.gif
+Stygian Hag, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b3/Stygian_Hag_%28Diablo_II%29.gif
+Grotesque, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b8/Grotesque_%28Diablo_II%29.gif
+Grotesque, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b8/Grotesque_%28Diablo_II%29.gif
+Flesh Spawner, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/27/Flesh_Spawner_%28Diablo_II%29.gif
+---
+Vulture Demon (Diablo II)
+Carrion Bird, https://static.wikia.nocookie.net/diablo_gamepedia/images/6/68/Carrion_Bird_%28Diablo_II%29.gif
+Undead Scavenger, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b8/Undead_Scavenger_%28Diablo_II%29.gif
+Hell Buzzard, https://static.wikia.nocookie.net/diablo_gamepedia/images/6/64/Hell_Buzzard_%28Diablo_II%29.gif
+Winged Nightmare, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f6/Winged_Nightmare_%28Diablo_II%29.gif
+Carrion Bird, https://static.wikia.nocookie.net/diablo_gamepedia/images/6/68/Carrion_Bird_%28Diablo_II%29.gif
+---
+Wendigo (Diablo II)
+Gargantuan Beast, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/08/Gargantuan_Beast_%28Diablo_II%29.gif
+Brute, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b3/Brute_%28Diablo_II%29.gif
+Yeti, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/d8/Yeti_%28Diablo_II%29.gif
+Crusher, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/d8/Crusher_%28Diablo_II%29.gif
+Wailing Beast, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/36/Wailing_Beast_%28Diablo_II%29.gif
+---
+Willowisp (Diablo II)
+Gloam, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/54/Gloam_%28Diablo_II%29.gif
+Burning Soul, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/e6/Burning_Soul_%28Diablo_II%29.gif
+Gloam, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/54/Gloam_%28Diablo_II%29.gif
+Burning Soul, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/54/Gloam_%28Diablo_II%29.gif
+Black Soul, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/e3/Black_Soul_%28Diablo_II%29.gif
+---
+Wraith (Diablo II)
+Ghost, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/bd/Ghost_%28Diablo_II%29.gif
+Wraith, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/bd/Ghost_%28Diablo_II%29.gif
+Specter, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f1/Specter_%28Diablo_II%29.gif
+Apparition, https://static.wikia.nocookie.net/diablo_gamepedia/images/6/68/Apparition_%28Diablo_II%29.gif
+Dark Shape, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/ca/Dark_Shape_%28Diablo_II%29.gif
+Ghost, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/bd/Ghost_%28Diablo_II%29.gif
+Wraith, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/bd/Ghost_%28Diablo_II%29.gif
+Specter, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/bd/Ghost_%28Diablo_II%29.gif
+---
+Zakarum Priest (Diablo II)
+Sexton, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/ee/Sexton_%28Diablo_II%29.gif
+Cantor, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/ef/Cantor_%28Diablo_II%29.gif
+Hierophant, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/9a/Hierophant_%28Diablo_II%29.gif
+Hierophant, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/ef/Cantor_%28Diablo_II%29.gif
+Hierophant, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/9a/Hierophant_%28Diablo_II%29.gif
+---
+Zakarum Zealot (Diablo II)
+Zakarumite, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f4/Zakarumite_%28Diablo_II%29.gif
+Faithful, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/91/Faithful_%28Diablo_II%29.gif
+Zealot, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/59/Zealot_%28Diablo_II%29.gif
+Zealot, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/91/Faithful_%28Diablo_II%29.gif
+Zealot, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/59/Zealot_%28Diablo_II%29.gif
+---
+Zombie (Diablo II)
+Zombie, https://static.wikia.nocookie.net/diablo_gamepedia/images/6/66/Zombie_%28Diablo_II%29.gif
+Hungry Dead, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/4b/Hungry_Dead_%28Diablo_II%29.gif
+Ghoul, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/a6/Ghoul_%28Diablo_II%29.gif
+Plague Bearer, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/e6/Plague_Bearer_%28Diablo_II%29.gif
+Drowned Carcass, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/cb/Drowned_Carcass_%28Diablo_II%29.gif
 ---
