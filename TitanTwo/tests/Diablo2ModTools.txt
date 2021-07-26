@@ -1,0 +1,17 @@
+Diablo 2 Mod Links:
+
+Tools:
+Winmpq, https://www.hiveworkshop.com/threads/winmpq-v1-64.62969/
+Image Editing, https://d2mods.info/forum/downloadsystemcat?id=14
+
+Links:
+The Phrozen Keep, https://d2mods.info/
+ShadowFlare's Realm, https://sfsrealm.hopto.org/
+Github, https://tristram-archives.github.io/diablo2_infodump/
+
+Guides:
+https://d2mods.info/forum/viewtopic.php?t=34455
+https://d2mods.info/forum/kb/viewarticle?a=286
+
+Monsters:
+https://diablo-archive.fandom.com/wiki/Category:Diablo_II_Regular_Monsters
