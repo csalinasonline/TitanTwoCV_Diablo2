@@ -3,6 +3,7 @@ main: https://diablo-archive.fandom.com/wiki/
 ===
 Monsters
 ===
+---
 Abominable (Diablo II)
 Snow Drifter, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/88/Abominable_%28Diablo_II%29.gif
 Abominable, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/88/Abominable_%28Diablo_II%29.gif
@@ -486,7 +487,7 @@ Reanimated Horde, Bonesaw Breaker, https://static.wikia.nocookie.net/diablo_game
 Frozen Creeper, Snapchip Shatter, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/08/Frozen_Horror_%28Diablo_II%29.gif
 Defiled Warrior, Pindleskin, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/14/Reanimated_Horde_%28Diablo_II%29.gif
 Madawc, Madawc, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/80/Madawc_%28Diablo_II%29.gif
-Korlic, Korlic, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/52/Korlic_%28Diablo_II%29.gif/revision/latest/scale-to-width-down/90?cb=20100211222433
+Korlic, Korlic, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/52/Korlic_%28Diablo_II%29.gif
 Talic, Talic, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b1/Talic_%28Diablo_II%29.gif
 Warped Shaman, Colenzo the Annihilator, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fb/Colenzo_the_Annihilator_%28Diablo_II%29.gif
 Greater Mummy, Achmel the Cursed, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/12/Achmel_the_Cursed_%28Diablo_II%29.gif
@@ -610,3 +611,59 @@ Ghoul, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/a6/Ghoul_%28D
 Plague Bearer, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/e6/Plague_Bearer_%28Diablo_II%29.gif
 Drowned Carcass, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/cb/Drowned_Carcass_%28Diablo_II%29.gif
 ---
+===
+NPC
+===
+---
+Act 1 (Diablo II)
+Akara, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/50/Akara_%28Diablo_II%29.gif
+Charsi, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/21/Charsi_%28Diablo_II%29.gif
+Deckard Cain, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/cf/Deckard_Cain_%28Diablo_II%29.gif
+Flavie, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/a9/Flavie_%28Diablo_II%29.gif
+Gheed, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/d0/Gheed_%28Diablo_II%29.gif
+Kashya, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/d4/Kashya_%28Diablo_II%29.gif
+Warriv 1, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/01/Warriv_%28Diablo_II%29.gif
+Warriv 2, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7a/Warriv2_%28Diablo_II%29.gif
+---
+Act 2 (Diablo II)
+Atma, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/be/Atma_%28Diablo_II%29.gif
+Deckard Cain, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/cf/Deckard_Cain_%28Diablo_II%29.gif
+Drognan, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/aa/Drognan_%28Diablo_II%29.gif
+Elzix, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/16/Elzix_%28Diablo_II%29.gif
+Fara, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/43/Fara_%28Diablo_II%29.gif
+Geglash, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/e9/Geglash_%28Diablo_II%29.gif
+Greiz, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/93/Greiz_%28Diablo_II%29.gif
+Jerhyn, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/d0/Jerhyn_%28Diablo_II%29.gif
+Kaelan, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/98/Kaelan_%28Diablo_II%29.gif
+Lysander, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b1/Lysander_%28Diablo_II%29.gif
+Meshif, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7b/Meshif_%28Diablo_II%29.gif
+Tyrael, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/a0/Tyrael_%28Diablo_II%29.gif
+Warriv 1, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/01/Warriv_%28Diablo_II%29.gif
+Warriv 2, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7a/Warriv2_%28Diablo_II%29.gif
+---
+Act 3 (Diablo II)
+Alkor, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fa/Alkor_%28Diablo_II%29.gif
+Asheara, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fe/Asheara_%28Diablo_II%29.gif
+Deckard Cain, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/cf/Deckard_Cain_%28Diablo_II%29.gif
+Hratli, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/51/Hratli_%28Diablo_II%29.gif
+Meshif, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7b/Meshif_%28Diablo_II%29.gif
+Natalya, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/4b/Natalya_%28Diablo_II%29.gif
+Ormus, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/75/Ormus_%28Diablo_II%29.gif
+Dark Wanderer, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/e5/Wanderer.gif
+---
+Act 4 (Diablo II)
+Deckard Cain, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/cf/Deckard_Cain_%28Diablo_II%29.gif
+Hadriel, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/26/Hadriel_%28Diablo_II%29.gif
+Halbu, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/09/Halbu_%28Diablo_II%29.gif
+Izual Spirit, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b0/Izual_spirit_%28Diablo_II%29.gif
+Jamella, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/1a/Jamella_%28Diablo_II%29.gif
+Tyrael, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/a0/Tyrael_%28Diablo_II%29.gif
+---
+Act 5 (Diablo II)
+Anya, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/4a/Anya_%28Diablo_II%29.gif
+Deckard Cain, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/cf/Deckard_Cain_%28Diablo_II%29.gif
+Larzuk, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/0b/Larzuk_%28Diablo_II%29.gif
+Malah, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/2f/Malah_%28Diablo_II%29.gif
+Nihlathak, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/4b/Nihlathak_%28Diablo_II%29.gif
+Qual-Kehk, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f5/Qual-Kehk_%28Diablo_II%29.gif
+Tyrael, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/a0/Tyrael_%28Diablo_II%29.gif
