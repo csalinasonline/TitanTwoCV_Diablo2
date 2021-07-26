@@ -462,13 +462,17 @@ Council Member, Toorc Icefist, https://static.wikia.nocookie.net/diablo_gamepedi
 Council Member, Wyand Voidbringer, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Council_Member_%28Diablo_II%29.gif
 Council Member, Maffer Dragonhand, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Council_Member_%28Diablo_II%29.gif
 Council Member, Bremm Sparkfist, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Council_Member_%28Diablo_II%29.gif
-Mephisto, Mephisto, ...
-Izual, Izual, ...
+Mephisto, Mephisto, Normal, Act3, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/88/Mephisto_%28Diablo_II%29.gif
+Mephisto, Mephisto, Nightmare, Act3, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/dc/Mephisto_Nightmare_%28Diablo_II%29.gif
+Mephisto, Mephisto, Hell, Act3, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b2/Mephisto_Hell_%28Diablo_II%29.gif
+Izual, Izual, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/c9/Izual_%28Diablo_II%29.gif
 Hephasto the Armorer, Hephasto the Armorer, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fc/Hephasto_the_Armorer_%28Diablo_II%29.gif
 Venom Lord, Infector of Souls, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/cb/Infector_of_Souls_%28Diablo_II%29.gif
 Storm Caster, Grand Vizier of Chaos, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/5a/Grand_Vizier_of_Chaos_%28Diablo_II%29.gif
 Oblivion Knight, Lord De Seis, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7a/Lord_de_Seis_%28Diablo_II%29.gif
-Diablo, Diablo, ...
+Diablo, Diablo, Normal, Act4, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/92/Diablo_%28Diablo_II%29.gif
+Diablo, Diablo, Nightmare, Act4, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/99/Diablo_Nightmare_%28Diablo_II%29.gif
+Diablo, Diablo, Hell, Act4, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/82/Diablo_Hell_%28Diablo_II%29.gif
 Frozen Creeper, Snapchip Shatter, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/08/Frozen_Horror_%28Diablo_II%29.gif
 Nihlathak, Nihlathak, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/4b/Nihlathak_%28Diablo_II%29.gif
 Demon Gremlin, Dac Farren, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/33/Demon_Imp_%28Diablo_II%29.gif
@@ -482,15 +486,24 @@ Reanimated Horde, Bonesaw Breaker, https://static.wikia.nocookie.net/diablo_game
 Frozen Creeper, Snapchip Shatter, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/08/Frozen_Horror_%28Diablo_II%29.gif
 Defiled Warrior, Pindleskin, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/14/Reanimated_Horde_%28Diablo_II%29.gif
 Madawc, Madawc, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/80/Madawc_%28Diablo_II%29.gif
-Korlic, Korlic, ...
+Korlic, Korlic, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/52/Korlic_%28Diablo_II%29.gif/revision/latest/scale-to-width-down/90?cb=20100211222433
 Talic, Talic, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b1/Talic_%28Diablo_II%29.gif
 Warped Shaman, Colenzo the Annihilator, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fb/Colenzo_the_Annihilator_%28Diablo_II%29.gif
 Greater Mummy, Achmel the Cursed, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/12/Achmel_the_Cursed_%28Diablo_II%29.gif
 Council Member, Bartuc the Bloody, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Council_Member_%28Diablo_II%29.gif
 Venom Lord, Ventar the Unholy, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/59/Ventar_the_Unholy_%28Diablo_II%29.gif
 Minion of Destruction, Lister the Tormentor, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/11/Minion_of_Destruction_%28Diablo_II%29.gif
-Baal, Baal, ...
+Baal, Baal, Normal, Act5, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f9/Baal_%28Diablo_II%29.gif
+Baal, Baal, Nightmare, Act5, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/c3/Baal_Nightmare_%28Diablo_II%29.gif
+Baal, Baal, Hell, Act5, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/29/Baal_Hell_%28Diablo_II%29.gif
 Hell Bovine, The Cow King, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/ad/Hell_Bovine_%28Diablo_II%29.gif
+Andariel, Lilith, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/26/Andariel_Hell_%28Diablo_II%29.gif
+Duriel, Uber Duriel, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7b/Duriel_Hell_%28Diablo_II%29.gif
+Izual, Uber Izual, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/c9/Izual_%28Diablo_II%29.gif
+Mephisto, Uber Mephisto, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b2/Mephisto_Hell_%28Diablo_II%29.gif
+Diablo, Uber Diablo, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/82/Diablo_Hell_%28Diablo_II%29.gif
+Diablo, Pandemonium Diablo, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/82/Diablo_Hell_%28Diablo_II%29.gif
+Baal, Uber Baal, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f9/Baal_%28Diablo_II%29.gif
 ---
 Swarm (Diablo II)
 Itchies, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/1a/Itchies_%28Diablo_II%29.gif
