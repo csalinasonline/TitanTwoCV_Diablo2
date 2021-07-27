@@ -638,8 +638,8 @@ Kaelan, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/98/Kaelan_%2
 Lysander, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b1/Lysander_%28Diablo_II%29.gif
 Meshif, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7b/Meshif_%28Diablo_II%29.gif
 Tyrael, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/a0/Tyrael_%28Diablo_II%29.gif
-Warriv 1, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/01/Warriv_%28Diablo_II%29.gif
-Warriv 2, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7a/Warriv2_%28Diablo_II%29.gif
+Warriv, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/01/Warriv_%28Diablo_II%29.gif
+Warriv2, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7a/Warriv2_%28Diablo_II%29.gif
 ---
 Act 3 (Diablo II)
 Alkor, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fa/Alkor_%28Diablo_II%29.gif
