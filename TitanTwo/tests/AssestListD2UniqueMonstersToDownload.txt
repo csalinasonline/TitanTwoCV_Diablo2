@@ -1,0 +1,88 @@
+Diablo 2 Assets Download List
+main: https://diablo-archive.fandom.com/wiki/
+===
+Monsters
+---
+Super Unique Monsters (Diablo II)
+Zombie, Corpsefire, https://static.wikia.nocookie.net/diablo_gamepedia/images/6/6a/Corpsefire_%28Diablo_II%29.gif
+Fallen Shaman, Bishibosh, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/36/Bishibosh_%28Diablo_II%29.gif
+Corrupt Rogue Archer, Blood Raven, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/bf/Blood_Raven_%28Diablo_II%29.gif
+Skeleton, Bonebreaker, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/35/Bonebreaker_%28Diablo_II%29.gif
+Dark Ranger, Coldcrow, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fb/Coldcrow_%28Diablo_II%29.gif
+Carver, Rakanishu, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/78/Rakanishu_%28Diablo_II%29.gif
+Brute, Treehead Woodfist, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/d8/Crusher_%28Diablo_II%29.gif
+Griswold, Griswold, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/3c/Griswold_%28Diablo_II%29.gif
+Dark Stalker, The Countess, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/73/The_Countess_%28Diablo_II%29.gif
+Tainted, Pitspawn Fouldog, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/24/Pitspawn_Fouldog_%28Diablo_II%29.gif
+Razor Spine, Flamespike the Crawler, https://static.wikia.nocookie.net/diablo_gamepedia/images/6/69/Flamespike_the_Crawler_%28Diablo_II%29.gif
+Burning Dead Mage, Bone Ash, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b3/Bone_Ash_%28Diablo_II%29.gif
+The Smith, The Smith, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/5b/The_Smith_%28Diablo_II%29.gif
+Andariel, Normal, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/34/Andariel_%28Diablo_II%29.gif
+Andariel, Nightmare, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/57/Andariel_Nightmare_%28Diablo_II%29.gif
+Andariel, Hell, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/26/Andariel_Hell_%28Diablo_II%29.gif
+Greater Mummy, Radament, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fe/Radament_%28Diablo_II%29.gif
+Huntress, Bloodwitch the Wild, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/35/Bloodwitch_the_Wild_%28Diablo_II%29.gif
+Salamander, Fangskin, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/9d/Fangskin_%28Diablo_II%29.gif
+Scarab Demon, Beetleburst, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/c6/Beetleburst_%28Diablo_II%29.gif
+Sand Maggot Queen, Coldworm the Burrower, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/eb/Coldworm_the_Burrower_%28Diablo_II%29.gif
+Invader, Fire Eye, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7c/Fire_Eye_%28Diablo_II%29.gif
+Plague Bearer, Dark Elder, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/d3/Dark_Elder_%28Diablo_II%29.gif
+The Summoner, The Summoner, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/47/The_Summoner_%28Diablo_II%29.gif
+Greater Mummy, Ancient Kaa the Soulless, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/ff/Ancient_Kaa_the_Soulless_%28Diablo_II%29.gif
+Decayed, Creeping Feature, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f6/Creeping_Feature_%28Diablo_II%29.gif
+Duriel, Normal, https://static.wikia.nocookie.net/diablo_gamepedia/images/e/ee/Duriel_%28Diablo_II%29.gif
+Duriel, Nightmare, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7d/Duriel_Nightmare_%28Diablo_II%29.gif
+Duriel, Hell, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7b/Duriel_Hell_%28Diablo_II%29.gif
+Soul Killer Shaman, Witch Doctor Endugu, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/04/Witch_Doctor_Endugu_%28Diablo_II%29.gif
+Thrasher, Stormtree, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fc/Thorned_Hulk_%28Diablo_II%29.gif
+Flesh Hunter, Battlemaid Sarina, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/d1/Battlemaid_Sarina_%28Diablo_II%29.gif
+Gloombat, Icehawk Riftwing, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/a1/Icehawk_Riftwing_%28Diablo_II%29.gif
+Flame Spider, Sszark the Burning, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/54/Sszark_the_Burning_%28Diablo_II%29.gif
+Council Member, Ismail Vilehand, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Council_Member_%28Diablo_II%29.gif
+Council Member, Geleb Flamefinger, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Council_Member_%28Diablo_II%29.gif
+Council Member, Toorc Icefist, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Council_Member_%28Diablo_II%29.gif
+Council Member, Wyand Voidbringer, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Council_Member_%28Diablo_II%29.gif
+Council Member, Maffer Dragonhand, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Council_Member_%28Diablo_II%29.gif
+Council Member, Bremm Sparkfist, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Council_Member_%28Diablo_II%29.gif
+Mephisto, Normal, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/88/Mephisto_%28Diablo_II%29.gif
+Mephisto, Nightmare, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/dc/Mephisto_Nightmare_%28Diablo_II%29.gif
+Mephisto, Hell, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b2/Mephisto_Hell_%28Diablo_II%29.gif
+Izual, Izual, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/c9/Izual_%28Diablo_II%29.gif
+Hephasto the Armorer, Hephasto the Armorer, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fc/Hephasto_the_Armorer_%28Diablo_II%29.gif
+Venom Lord, Infector of Souls, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/cb/Infector_of_Souls_%28Diablo_II%29.gif
+Storm Caster, Grand Vizier of Chaos, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/5a/Grand_Vizier_of_Chaos_%28Diablo_II%29.gif
+Oblivion Knight, Lord De Seis, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7a/Lord_de_Seis_%28Diablo_II%29.gif
+Diablo, Normal, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/92/Diablo_%28Diablo_II%29.gif
+Diablo, Nightmare, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/99/Diablo_Nightmare_%28Diablo_II%29.gif
+Diablo, Hell, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/82/Diablo_Hell_%28Diablo_II%29.gif
+Frozen Creeper, Snapchip Shatter, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/08/Frozen_Horror_%28Diablo_II%29.gif
+Nihlathak, Nihlathak, https://static.wikia.nocookie.net/diablo_gamepedia/images/4/4b/Nihlathak_%28Diablo_II%29.gif
+Demon Gremlin, Dac Farren, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/33/Demon_Imp_%28Diablo_II%29.gif
+Overseer, Shenk the Overseer, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/07/Shenk_the_Overseer_%28Diablo_II%29.gif
+Enslaved, Eldritch the Rectifier, https://static.wikia.nocookie.net/diablo_gamepedia/images/d/d1/Eldritch_the_Rectifier_%28Diablo_II%29.gif
+Blood Bringer, Thresh Socket, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/91/Siege_Beast_%28Diablo_II%29.gif
+Death Mauler, Eyeback the Unleashed, https://static.wikia.nocookie.net/diablo_gamepedia/images/3/34/Eyeback_the_Unleashed_%28Diablo_II%29.gif
+Overlord, Sharptooth Slayer, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/21/Sharptooth_Slayer_%28Diablo_II%29.gif
+Frozen Abyss, Frozenstein, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/88/Abominable_%28Diablo_II%29.gif
+Reanimated Horde, Bonesaw Breaker, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/14/Reanimated_Horde_%28Diablo_II%29.gif
+Frozen Creeper, Snapchip Shatter, https://static.wikia.nocookie.net/diablo_gamepedia/images/0/08/Frozen_Horror_%28Diablo_II%29.gif
+Defiled Warrior, Pindleskin, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/14/Reanimated_Horde_%28Diablo_II%29.gif
+Madawc, Madawc, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/80/Madawc_%28Diablo_II%29.gif
+Korlic, Korlic, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/52/Korlic_%28Diablo_II%29.gif
+Talic, Talic, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b1/Talic_%28Diablo_II%29.gif
+Warped Shaman, Colenzo the Annihilator, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/fb/Colenzo_the_Annihilator_%28Diablo_II%29.gif
+Greater Mummy, Achmel the Cursed, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/12/Achmel_the_Cursed_%28Diablo_II%29.gif
+Council Member, Bartuc the Bloody, https://static.wikia.nocookie.net/diablo_gamepedia/images/9/94/Council_Member_%28Diablo_II%29.gif
+Venom Lord, Ventar the Unholy, https://static.wikia.nocookie.net/diablo_gamepedia/images/5/59/Ventar_the_Unholy_%28Diablo_II%29.gif
+Minion of Destruction, Lister the Tormentor, https://static.wikia.nocookie.net/diablo_gamepedia/images/1/11/Minion_of_Destruction_%28Diablo_II%29.gif
+Baal, Normal, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f9/Baal_%28Diablo_II%29.gif
+Baal, Nightmare, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/c3/Baal_Nightmare_%28Diablo_II%29.gif
+Baal, Hell, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/29/Baal_Hell_%28Diablo_II%29.gif
+Hell Bovine, The Cow King, https://static.wikia.nocookie.net/diablo_gamepedia/images/a/ad/Hell_Bovine_%28Diablo_II%29.gif
+Andariel, Lilith, https://static.wikia.nocookie.net/diablo_gamepedia/images/2/26/Andariel_Hell_%28Diablo_II%29.gif
+Duriel, Uber Duriel, https://static.wikia.nocookie.net/diablo_gamepedia/images/7/7b/Duriel_Hell_%28Diablo_II%29.gif
+Izual, Uber Izual, https://static.wikia.nocookie.net/diablo_gamepedia/images/c/c9/Izual_%28Diablo_II%29.gif
+Mephisto, Uber Mephisto, https://static.wikia.nocookie.net/diablo_gamepedia/images/b/b2/Mephisto_Hell_%28Diablo_II%29.gif
+Diablo, Uber Diablo, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/82/Diablo_Hell_%28Diablo_II%29.gif
+Diablo, Pandemonium Diablo, https://static.wikia.nocookie.net/diablo_gamepedia/images/8/82/Diablo_Hell_%28Diablo_II%29.gif
+Baal, Uber Baal, https://static.wikia.nocookie.net/diablo_gamepedia/images/f/f9/Baal_%28Diablo_II%29.gif
